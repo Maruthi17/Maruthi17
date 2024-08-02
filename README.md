@@ -1,6 +1,6 @@
 ![logo](https://github.com/Maruthi17/Maruthi17/blob/master/maruthi17.png)
 <h1 align="center">Hi 👋, I'm Maruthi J</h1>
-<h3 align="center">A passionate Linux , AWS engineer from India</h3>
+<h3 align="center">A passionate Linux , AWS and DevOps engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
